@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+# nohsangwoo
+I'm sangwooNoh from South Korea. and I do Development. I really enjoy learning languages and frameworks like React and React Native, as well as nodejs.
+I also enjoy learning about computer concept and clone coding in general.
+
+# Skills and Experience
+⚛ React
+📱 React Native
+💻 HTML, CSS, JS
+
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohsangwoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
