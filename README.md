@@ -6,9 +6,12 @@ I'm sangwooNoh from South Korea. and I do Development. I really enjoy learning l
 I also enjoy learning about computer concept and clone coding in general.
 
 # Skills and Experience
-⚛ React
-📱 React Native
-💻 HTML, CSS, JS
+- ⚛ React, apollographql, graphql, nodejs, nestjs, prisma
+- 📱 React Native
+- 💻 HTML, CSS, JS, TS, PHP, tailwind css, styled component, arduino, raspberry pi, python, C, C++, 
+- ☁️ netlify, heroku, AWS s3, AWS EC2, CAFE24
+- 💾 mysql, 
+
 
 <div>
   
