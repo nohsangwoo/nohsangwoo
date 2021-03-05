@@ -12,6 +12,7 @@ I also enjoy learning about computer concept and clone coding in general.
 - ☁️ netlify, heroku, AWS s3, AWS EC2, CAFE24
 - 💾 MySQL, Oracle / MongoDB / PostgreSQL
 
+# GITHUB STATUS
 
 <div>
   
