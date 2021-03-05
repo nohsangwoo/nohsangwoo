@@ -10,7 +10,7 @@ I also enjoy learning about computer concept and clone coding in general.
 - 📱 React Native
 - 💻 HTML, CSS, JS, TS, PHP, tailwind css, styled component, arduino, raspberry pi, python, C, C++, 
 - ☁️ netlify, heroku, AWS s3, AWS EC2, CAFE24
-- 💾 mysql, 
+- 💾 MySQL, Oracle / MongoDB / PostgreSQL
 
 
 <div>
