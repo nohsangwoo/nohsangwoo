@@ -5,6 +5,9 @@
 I'm sangwooNoh from South Korea. and I do Development. I really enjoy learning languages and frameworks like React and React Native, as well as nodejs.
 I also enjoy learning about computer concept and clone coding in general.
 
+
+https://img.shields.io/badge/-reactJs-%23282D33
+
 # Skills and Experience
 - ⚛ https://img.shields.io/badge/ReactJS-%23282D33?style=flat-square&link=https://reactjs.org/&logo=React&logoColor=%2361DAFB, apollographql, nodejs, nestjs, prisma
 - 📱 React Native
