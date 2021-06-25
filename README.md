@@ -9,17 +9,11 @@ I also enjoy learning about computer concept and clone coding in general.
 
 # Skills and Experience
 
-<div>
-  <ul>
-    <li style="color:red">
-- ⚛ <img src="https://img.shields.io/badge/ReactJS-%23282D33?style=flat-square&link=https://reactjs.org/&logo=React&logoColor=%2361DAFB" />, apollographql, nodejs, nestjs, prisma
-    </li>
-- 📱 React Native
-- 💻 HTML, CSS, JS, TS, PHP, tailwind css, styled component, arduino, raspberry pi, python, C, C++, 
-- ☁️ netlify, heroku, AWS s3, AWS EC2, CAFE24
-- 💾 MySQL, Oracle / MongoDB / PostgreSQL
-  <ul>
-<div>
+* - ⚛ <img src="https://img.shields.io/badge/ReactJS-%23282D33?style=flat-square&link=https://reactjs.org/&logo=React&logoColor=%2361DAFB" />, apollographql, nodejs, nestjs, prisma
+* - 📱 React Native
+* - 💻 HTML, CSS, JS, TS, PHP, tailwind css, styled component, arduino, raspberry pi, python, C, C++, 
+* - ☁️ netlify, heroku, AWS s3, AWS EC2, CAFE24
+* - 💾 MySQL, Oracle / MongoDB / PostgreSQL
 
 # GITHUB STATUS
 
