@@ -10,7 +10,7 @@ I also enjoy learning about computer concept and clone coding in general.
 
 
 # Skills and Experience
-
+<center>가운데</center>  
 
 
 ![ICON](https://img.shields.io/badge/Javascript-%23000000?style=flat-square&link=https://developer.mozilla.org/ko/docs/Web/JavaScript/&logo=JavaScript&logoColor=%23F7DF1E) ![ICON](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&link=https://www.typescriptlang.org/&logo=TypeScript&logoColor=white) ![ICON](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&link=https://nodejs.org/&logo=Node.js&logoColor=white) ![ICON](https://img.shields.io/badge/ReactJS-%23282D33?style=flat-square&link=https://reactjs.org/&logo=React&logoColor=%2361DAFB) ![ICON](https://img.shields.io/badge/GraphQL-%23181F26?style=flat-square&link=https://graphql.org/&logo=Graphql&logoColor=%23E434AA) ![ICON](https://img.shields.io/badge/Apollo%20GraphQL-%23330ECA?style=flat-square&link=https://www.apollographql.com/&logo=ApolloGraphQL&logoColor=#311C87) ![ICON](https://img.shields.io/badge/NestJS-%230F0F10?style=flat-square&link=https://nestjs.com/&logo=NestJS&logoColor=%23E0234E) ![ICON](https://img.shields.io/badge/Prisma-%232D3748?style=flat-square&link=https://www.prisma.io/&logo=Prisma&logoColor=white) 
