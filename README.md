@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # nohsangwoo
 I'm sangwooNoh from South Korea. and I do Development. I really enjoy learning languages and frameworks like React and React Native, as well as nodejs.
