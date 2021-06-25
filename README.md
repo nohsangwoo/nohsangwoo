@@ -6,7 +6,6 @@ I'm sangwooNoh from South Korea. and I do Development. I really enjoy learning l
 I also enjoy learning about computer concept and clone coding in general.
 
 
-https://img.shields.io/badge/-reactJs-%23282D33
 
 # Skills and Experience
 
