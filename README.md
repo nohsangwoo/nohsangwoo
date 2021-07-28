@@ -67,4 +67,4 @@ icon by https://simpleicons.org/
 
 
 
-[블로그](https://velog.io/@nohsangwoo)
+# [Blog](https://velog.io/@nohsangwoo)
