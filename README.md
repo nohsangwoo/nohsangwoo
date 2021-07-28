@@ -67,5 +67,4 @@ icon by https://simpleicons.org/
 
 
 
-
-	<a href="https://velog.io/@nohsangwoo" target="_blank"> blog </a>
+[블로그](https://velog.io/@nohsangwoo)
