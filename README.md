@@ -62,3 +62,8 @@ header by https://github.com/kyechan99/capsule-render
 badge by https://shields.io/
 icon by https://simpleicons.org/
 -->
+
+<hr/>
+
+# blog
+https://velog.io/@nohsangwoo
