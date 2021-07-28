@@ -65,5 +65,7 @@ icon by https://simpleicons.org/
 
 <hr/>
 
-# blog
-https://velog.io/@nohsangwoo
+
+
+
+	<a href="https://velog.io/@nohsangwoo" target="_blank"> blog </a>
