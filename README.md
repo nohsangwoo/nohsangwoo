@@ -44,7 +44,7 @@ I also enjoy learning about computer concept and clone coding in general.
 
 <!-- ### platform services -->
 
-- ![ICON](https://img.shields.io/badge/Mailgun-%23F9F9F9?style=flat-square&link=https://www.mailgun.com/&logo=Mailgun&logoColor=%23F9F9F9) ![ICON](https://img.shields.io/badge/Nodemailer-%23F9F9F9?style=flat-square&link=https://nodemailer.com/about/&logo=Nodemailer&logoColor=%23F9F9F9)
+- ![ICON](https://img.shields.io/badge/Mailgun-%23F9F9F9?style=flat-square&link=https://www.mailgun.com/&logo=Mailgun&logoColor=%23F06B66) ![ICON](https://img.shields.io/badge/Nodemailer-%23F9F9F9?style=flat-square&link=https://nodemailer.com/about/&logo=Nodemailer&logoColor=%2330B980)
 
 <!-- end of platform -->
 
