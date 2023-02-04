@@ -38,7 +38,7 @@ I also enjoy learning about computer concept and clone coding in general.
 
 <!-- ### dev ops -->
 
-- ![ICON](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=flat-square&link=https://aws.amazon.com/&logo=AmazonAWS&logoColor=white) ![ICON](https://img.shields.io/badge/Amazon%20S3-%23569A31?style=flat-square&link=https://s3.console.aws.amazon.com/s3/&logo=AmazonS3&logoColor=white) ![ICON](https://img.shields.io/badge/Netlify-%230E1F25?style=flat-square&link=https://www.netlify.com/&logo=Netlify&logoColor=%2300C7B7) ![ICON](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&link=https://www.heroku.com&logo=Heroku&logoColor=white)
+- ![ICON](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=flat-square&link=https://aws.amazon.com/&logo=AmazonAWS&logoColor=white) ![ICON](https://img.shields.io/badge/Amazon%20S3-%23569A31?style=flat-square&link=https://s3.console.aws.amazon.com/s3/&logo=AmazonS3&logoColor=white) ![ICON](https://img.shields.io/badge/Netlify-%230E1F25?style=flat-square&link=https://www.netlify.com/&logo=Netlify&logoColor=%2300C7B7) ![ICON](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&link=https://www.heroku.com&logo=Heroku&logoColor=white) ![ICON](https://img.shields.io/badge/Lua-%23F9F9F9?style=flat-square&link=https://www.mailgun.com/&logo=Lua&logoColor=%232C2D72)
 
 <!-- end of dev ops -->
 
